@@ -2,7 +2,6 @@
 @section('content')
 Home
 @endsection
-
 @section('main')
     <div class="row">
         <div class="col-lg-4 col-md-12" style="background: #fff ; padding: 1rem  ; border-radius: 1rem" >
@@ -43,5 +42,4 @@ Home
             </div>
         </div>
     </div>
-
 @endsection
